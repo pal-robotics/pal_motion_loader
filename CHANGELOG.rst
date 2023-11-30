@@ -2,8 +2,8 @@
 Changelog for package pal_motion_loader
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2023-11-30)
+------------------
 * Merge branch 'make_script_executable' into 'main'
   make the script executable
   See merge request apps/pal_motion_loader!2
